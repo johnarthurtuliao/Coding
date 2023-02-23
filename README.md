@@ -1,1 +1,6 @@
-# Coding
+   Coding
+--------------------------
+Author:
+Facebook:
+Version:
+--------------------------
